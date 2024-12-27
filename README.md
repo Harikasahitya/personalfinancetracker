@@ -28,10 +28,12 @@ Copy code
 ./personal_finance_tracker
 
 Follow the on-screen instructions to add income, record expenses, or view your transaction history.
+
 Features
 1.Tracks income and expenses.
 2.Calculates and displays the total balance.
 3.Stores transactions in a CSV file for review and analysis.
+
 Prerequisites
 GCC compiler (or another C compiler)
 Operating system: Linux, MacOS, or Windows with Cygwin/MinGW
